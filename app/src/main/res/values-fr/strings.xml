@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rocioibanez</string>
+    <string name="edit_message">Entrez un message</string>
+    <string name="button_send">Envoyer</string>
+    <string name="cambiar_color">Changer coleur</string>
+    <string name="switchOn">switch on</string>
+    <string name="textview">TextView</string>
+</resources>
